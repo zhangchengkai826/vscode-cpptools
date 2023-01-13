@@ -13,3 +13,8 @@ OneLocBuild
 
 # ignore imported localization xlf directory
 vscode-translations-import
+
+# ignore yarn 
+
+.yarn/
+.yarnrc.yml
